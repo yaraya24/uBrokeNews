@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yaraya24/news_web_application.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yaraya24/reactjs_news_app.git
+	branch = main
