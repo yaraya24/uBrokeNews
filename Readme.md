@@ -9,7 +9,7 @@ A Full-Stack application that provides trustworthy and timely news from a wide r
 - Ability to like and save articles
 - Search for articles
 
-
+The application has been deployed and can be accessed from **http://54.158.160.72**
 
 ### Getting Started
 
@@ -44,7 +44,7 @@ docker-compose up -d --build
 
 You can now access the web application on the localhost on port 80 or via the public IPv4 address.
 
-The application has been deployed and can be accessed from **http://54.158.160.72**
+
 
 
 
